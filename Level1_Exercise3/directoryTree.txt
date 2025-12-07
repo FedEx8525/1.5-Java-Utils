@@ -1,0 +1,229 @@
+
+ --- Directory Tree List ---
+
+->lavel1_exercise3 is a [D], Last modification: 2025-12-05 22:34:15
+- ->.git is a [D], Last modification: 2025-12-05 20:55:24
+- - ->config is a [F], Last modification: 2025-12-05 20:53:50
+- - ->description is a [F], Last modification: 2025-12-05 20:53:50
+- - ->HEAD is a [F], Last modification: 2025-12-05 20:53:50
+- - ->hooks is a [D], Last modification: 2025-12-05 20:53:50
+- - - ->applypatch-msg.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->commit-msg.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->fsmonitor-watchman.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->post-update.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->pre-applypatch.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->pre-commit.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->pre-merge-commit.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->pre-push.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->pre-rebase.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->pre-receive.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->prepare-commit-msg.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->push-to-checkout.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->sendemail-validate.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - - ->update.sample is a [F], Last modification: 2025-12-05 20:53:50
+- - ->index is a [F], Last modification: 2025-12-05 20:55:24
+- - ->info is a [D], Last modification: 2025-12-05 20:53:50
+- - - ->exclude is a [F], Last modification: 2025-12-05 20:53:50
+- - ->objects is a [D], Last modification: 2025-12-05 20:55:24
+- - - ->26 is a [D], Last modification: 2025-12-05 20:53:52
+- - - - ->d33521af10bcc7fd8cea344038eaaeb78d0ef5 is a [F], Last modification: 2025-12-05 20:53:55
+- - - ->46 is a [D], Last modification: 2025-12-05 20:53:55
+- - - - ->16a21f954f95f2e829ab390820f79444b57de6 is a [F], Last modification: 2025-12-05 20:53:55
+- - - ->48 is a [D], Last modification: 2025-12-05 20:53:52
+- - - - ->0bdf524dd80e25ac77d9cdffdb815b807bdd51 is a [F], Last modification: 2025-12-05 20:53:52
+- - - ->6a is a [D], Last modification: 2025-12-05 20:53:55
+- - - - ->68b9f774d3e4829f3d5959aaed507aee53159d is a [F], Last modification: 2025-12-05 20:53:55
+- - - ->94 is a [D], Last modification: 2025-12-05 20:53:52
+- - - - ->a25f7f4cb416c083d265558da75d457237d671 is a [F], Last modification: 2025-12-05 20:53:55
+- - - ->9c is a [D], Last modification: 2025-12-05 20:53:52
+- - - - ->101c4970dbf5d95e3c16217368a492319c5425 is a [F], Last modification: 2025-12-05 20:53:52
+- - - ->c9 is a [D], Last modification: 2025-12-05 20:53:55
+- - - - ->d409c10025bb5b177faa4fd7f1a8128043dd60 is a [F], Last modification: 2025-12-05 20:55:02
+- - - ->ee is a [D], Last modification: 2025-12-05 20:55:24
+- - - - ->4b0da118a9c3ea6215ea5e3d447788291c3025 is a [F], Last modification: 2025-12-05 20:55:24
+- - - ->fd is a [D], Last modification: 2025-12-05 20:53:52
+- - - - ->c35ea8167a5fae3f335ef1d46269eaebfa6b03 is a [F], Last modification: 2025-12-05 20:53:55
+- - - ->info is a [D], Last modification: 2025-12-05 20:53:50
+- - - ->pack is a [D], Last modification: 2025-12-05 20:53:50
+- - ->refs is a [D], Last modification: 2025-12-05 20:53:50
+- - - ->heads is a [D], Last modification: 2025-12-05 20:53:50
+- - - ->tags is a [D], Last modification: 2025-12-05 20:53:50
+- ->.gitignore is a [F], Last modification: 2025-12-05 20:53:48
+- ->.idea is a [D], Last modification: 2025-12-05 22:34:12
+- - ->.gitignore is a [F], Last modification: 2025-12-05 20:53:52
+- - ->compiler.xml is a [F], Last modification: 2025-12-05 21:04:43
+- - ->encodings.xml is a [F], Last modification: 2025-12-05 21:04:43
+- - ->jarRepositories.xml is a [F], Last modification: 2025-12-05 21:04:43
+- - ->misc.xml is a [F], Last modification: 2025-12-05 20:53:52
+- - ->vcs.xml is a [F], Last modification: 2025-12-05 20:53:52
+- - ->workspace.xml is a [F], Last modification: 2025-12-05 22:34:12
+- ->.mvn is a [D], Last modification: 2025-12-05 20:53:50
+- ->directoryTree.txt is a [F], Last modification: 2025-12-05 22:34:15
+- ->pom.xml is a [F], Last modification: 2025-12-05 21:08:18
+- ->src is a [D], Last modification: 2025-12-05 20:53:54
+- - ->main is a [D], Last modification: 2025-12-05 20:53:54
+- - - ->java is a [D], Last modification: 2025-12-05 20:53:54
+- - - - ->level1_exercise3 is a [D], Last modification: 2025-12-05 22:25:21
+- - - - - ->DirectoryTreeToFile.java is a [F], Last modification: 2025-12-05 22:25:21
+- - - - - ->MainEx3.java is a [F], Last modification: 2025-12-05 21:35:37
+- - ->test is a [D], Last modification: 2025-12-05 20:53:54
+- - - ->java is a [D], Last modification: 2025-12-05 20:53:54
+- - - - ->level1_exercise3 is a [D], Last modification: 2025-12-05 20:53:54
+- - - - - ->AppTest.java is a [F], Last modification: 2025-12-05 20:53:54
+- ->target is a [D], Last modification: 2025-12-05 22:34:14
+- - ->classes is a [D], Last modification: 2025-12-05 22:34:14
+- - - ->level1_exercise3 is a [D], Last modification: 2025-12-05 22:34:14
+- - - - ->DirectoryTreeToFile.class is a [F], Last modification: 2025-12-05 22:34:14
+- - - - ->MainEx3.class is a [F], Last modification: 2025-12-05 22:34:14
+- - ->generated-sources is a [D], Last modification: 2025-12-05 22:34:14
+- - - ->annotations is a [D], Last modification: 2025-12-05 22:34:14
+->Level1_Exercise1 is a [D], Last modification: 2025-12-05 15:20:24
+- ->.git is a [D], Last modification: 2025-12-05 15:15:13
+- - ->config is a [F], Last modification: 2025-12-04 12:49:27
+- - ->description is a [F], Last modification: 2025-12-04 12:49:27
+- - ->HEAD is a [F], Last modification: 2025-12-04 12:49:27
+- - ->hooks is a [D], Last modification: 2025-12-04 12:49:27
+- - - ->applypatch-msg.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->commit-msg.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->fsmonitor-watchman.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->post-update.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->pre-applypatch.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->pre-commit.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->pre-merge-commit.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->pre-push.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->pre-rebase.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->pre-receive.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->prepare-commit-msg.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->push-to-checkout.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->sendemail-validate.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - - ->update.sample is a [F], Last modification: 2025-12-04 12:49:27
+- - ->index is a [F], Last modification: 2025-12-05 15:15:13
+- - ->info is a [D], Last modification: 2025-12-04 12:49:27
+- - - ->exclude is a [F], Last modification: 2025-12-04 12:49:27
+- - ->objects is a [D], Last modification: 2025-12-05 15:15:13
+- - - ->23 is a [D], Last modification: 2025-12-05 15:15:13
+- - - - ->266cabd55315bbdf05d94bc31efc773d85c8ca is a [F], Last modification: 2025-12-05 15:15:13
+- - - ->26 is a [D], Last modification: 2025-12-04 12:49:29
+- - - - ->d33521af10bcc7fd8cea344038eaaeb78d0ef5 is a [F], Last modification: 2025-12-04 12:49:29
+- - - ->2e is a [D], Last modification: 2025-12-04 12:49:31
+- - - - ->0e29a3cf24f5ade3ce24a73e897c10823a9e1d is a [F], Last modification: 2025-12-04 12:49:31
+- - - ->48 is a [D], Last modification: 2025-12-04 12:49:29
+- - - - ->0bdf524dd80e25ac77d9cdffdb815b807bdd51 is a [F], Last modification: 2025-12-04 12:49:29
+- - - ->4d is a [D], Last modification: 2025-12-04 12:49:31
+- - - - ->3bf1bd77f6f2918a5dc97941bb56a0fe6ff1db is a [F], Last modification: 2025-12-04 12:49:31
+- - - ->59 is a [D], Last modification: 2025-12-05 15:13:24
+- - - - ->0d7eda0f3a1a93ab35ffa6c94968095052f421 is a [F], Last modification: 2025-12-05 15:13:24
+- - - ->8a is a [D], Last modification: 2025-12-04 12:51:07
+- - - - ->e7ac0e02c452acf1b085c367fbdab44925318b is a [F], Last modification: 2025-12-04 12:51:07
+- - - ->94 is a [D], Last modification: 2025-12-04 12:49:29
+- - - - ->a25f7f4cb416c083d265558da75d457237d671 is a [F], Last modification: 2025-12-04 12:49:29
+- - - ->aa is a [D], Last modification: 2025-12-05 15:13:24
+- - - - ->00ffab7828f4818589659c804ec2cfd99baed3 is a [F], Last modification: 2025-12-05 15:13:24
+- - - ->d6 is a [D], Last modification: 2025-12-04 12:49:31
+- - - - ->fde294b54c4acea361c99490a262ee58e24f75 is a [F], Last modification: 2025-12-04 12:49:31
+- - - ->db is a [D], Last modification: 2025-12-04 12:49:29
+- - - - ->62a5df65522e1dfb2a1420433122193b43b46d is a [F], Last modification: 2025-12-04 12:49:29
+- - - ->fd is a [D], Last modification: 2025-12-04 12:49:29
+- - - - ->c35ea8167a5fae3f335ef1d46269eaebfa6b03 is a [F], Last modification: 2025-12-04 12:49:29
+- - - ->info is a [D], Last modification: 2025-12-04 12:49:27
+- - - ->pack is a [D], Last modification: 2025-12-04 12:49:27
+- - ->refs is a [D], Last modification: 2025-12-04 12:49:27
+- - - ->heads is a [D], Last modification: 2025-12-04 12:49:27
+- - - ->tags is a [D], Last modification: 2025-12-04 12:49:27
+- ->.gitignore is a [F], Last modification: 2025-12-04 12:49:23
+- ->.idea is a [D], Last modification: 2025-12-05 15:28:58
+- - ->.gitignore is a [F], Last modification: 2025-12-04 12:49:28
+- - ->compiler.xml is a [F], Last modification: 2025-12-04 12:50:14
+- - ->encodings.xml is a [F], Last modification: 2025-12-04 12:50:14
+- - ->jarRepositories.xml is a [F], Last modification: 2025-12-04 12:50:14
+- - ->misc.xml is a [F], Last modification: 2025-12-04 12:49:27
+- - ->vcs.xml is a [F], Last modification: 2025-12-04 12:49:27
+- - ->workspace.xml is a [F], Last modification: 2025-12-05 15:28:58
+- ->.mvn is a [D], Last modification: 2025-12-04 12:49:27
+- ->pom.xml is a [F], Last modification: 2025-12-04 12:49:31
+- ->src is a [D], Last modification: 2025-12-04 12:49:31
+- - ->main is a [D], Last modification: 2025-12-04 12:49:31
+- - - ->java is a [D], Last modification: 2025-12-04 12:49:31
+- - - - ->level1_exercise1 is a [D], Last modification: 2025-12-05 15:31:29
+- - - - - ->MainEx1.java is a [F], Last modification: 2025-12-05 15:20:16
+- - - - - ->ShowSortedDirectory.java is a [F], Last modification: 2025-12-05 15:31:29
+- - ->test is a [D], Last modification: 2025-12-04 12:49:31
+- - - ->java is a [D], Last modification: 2025-12-04 12:49:31
+- - - - ->level1_exercise1 is a [D], Last modification: 2025-12-04 12:49:31
+- - - - - ->AppTest.java is a [F], Last modification: 2025-12-04 12:49:31
+- ->target is a [D], Last modification: 2025-12-05 15:20:24
+- - ->classes is a [D], Last modification: 2025-12-05 15:20:25
+- - - ->level1_exercise1 is a [D], Last modification: 2025-12-05 15:33:40
+- - - - ->MainEx1.class is a [F], Last modification: 2025-12-05 15:20:25
+- - - - ->ShowSortedDirectory.class is a [F], Last modification: 2025-12-05 15:33:40
+- - ->generated-sources is a [D], Last modification: 2025-12-05 15:20:24
+- - - ->annotations is a [D], Last modification: 2025-12-05 15:20:24
+->Level1_Exercise2 is a [D], Last modification: 2025-12-05 16:32:39
+- ->.git is a [D], Last modification: 2025-12-05 16:00:02
+- - ->config is a [F], Last modification: 2025-12-04 13:47:03
+- - ->description is a [F], Last modification: 2025-12-04 13:47:03
+- - ->HEAD is a [F], Last modification: 2025-12-04 13:47:03
+- - ->hooks is a [D], Last modification: 2025-12-04 13:47:03
+- - - ->applypatch-msg.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->commit-msg.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->fsmonitor-watchman.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->post-update.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->pre-applypatch.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->pre-commit.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->pre-merge-commit.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->pre-push.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->pre-rebase.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->pre-receive.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->prepare-commit-msg.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->push-to-checkout.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->sendemail-validate.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - - ->update.sample is a [F], Last modification: 2025-12-04 13:47:03
+- - ->index is a [F], Last modification: 2025-12-05 16:00:02
+- - ->info is a [D], Last modification: 2025-12-04 13:47:03
+- - - ->exclude is a [F], Last modification: 2025-12-04 13:47:03
+- - ->objects is a [D], Last modification: 2025-12-05 16:00:02
+- - - ->00 is a [D], Last modification: 2025-12-05 16:00:02
+- - - - ->60bb996690cad3553748d79fb43e572896a847 is a [F], Last modification: 2025-12-05 16:00:02
+- - - ->26 is a [D], Last modification: 2025-12-04 13:47:05
+- - - - ->d33521af10bcc7fd8cea344038eaaeb78d0ef5 is a [F], Last modification: 2025-12-04 13:47:05
+- - - ->48 is a [D], Last modification: 2025-12-04 13:47:05
+- - - - ->0bdf524dd80e25ac77d9cdffdb815b807bdd51 is a [F], Last modification: 2025-12-04 13:47:05
+- - - ->58 is a [D], Last modification: 2025-12-04 13:47:06
+- - - - ->c808e18c6214d79ce99607184b2d8b8494cf8d is a [F], Last modification: 2025-12-04 13:47:06
+- - - ->60 is a [D], Last modification: 2025-12-04 13:47:06
+- - - - ->74213856f7e71baae8602c8450a1d577b2c075 is a [F], Last modification: 2025-12-04 13:47:06
+- - - ->8f is a [D], Last modification: 2025-12-04 13:47:05
+- - - - ->6ef4477f78a1d9b2fe344dbd59fed10da09c51 is a [F], Last modification: 2025-12-04 13:47:05
+- - - ->94 is a [D], Last modification: 2025-12-04 13:47:05
+- - - - ->a25f7f4cb416c083d265558da75d457237d671 is a [F], Last modification: 2025-12-04 13:47:06
+- - - ->aa is a [D], Last modification: 2025-12-05 16:00:02
+- - - - ->00ffab7828f4818589659c804ec2cfd99baed3 is a [F], Last modification: 2025-12-05 16:00:02
+- - - ->eb is a [D], Last modification: 2025-12-04 13:47:06
+- - - - ->fb406c7e3fa7c64da405fe375f597585647c70 is a [F], Last modification: 2025-12-05 15:40:41
+- - - ->fd is a [D], Last modification: 2025-12-04 13:47:05
+- - - - ->c35ea8167a5fae3f335ef1d46269eaebfa6b03 is a [F], Last modification: 2025-12-04 13:47:05
+- - - ->info is a [D], Last modification: 2025-12-04 13:47:03
+- - - ->pack is a [D], Last modification: 2025-12-04 13:47:03
+- - ->refs is a [D], Last modification: 2025-12-04 13:47:03
+- - - ->heads is a [D], Last modification: 2025-12-04 13:47:03
+- - - ->tags is a [D], Last modification: 2025-12-04 13:47:03
+- ->.gitignore is a [F], Last modification: 2025-12-04 13:47:00
+- ->.idea is a [D], Last modification: 2025-12-05 21:04:43
+- - ->.gitignore is a [F], Last modification: 2025-12-04 13:47:04
+- - ->compiler.xml is a [F], Last modification: 2025-12-04 13:47:28
+- - ->encodings.xml is a [F], Last modification: 2025-12-04 13:47:28
+- - ->jarRepositories.xml is a [F], Last modification: 2025-12-04 13:47:28
+- - ->misc.xml is a [F], Last modification: 2025-12-04 13:47:03
+- - ->vcs.xml is a [F], Last modification: 2025-12-04 13:47:05
+- - ->workspace.xml is a [F], Last modification: 2025-12-05 21:04:43
+- ->.mvn is a [D], Last modification: 2025-12-04 13:47:03
+- ->pom.xml is a [F], Last modification: 2025-12-05 16:32:39
+- ->src is a [D], Last modification: 2025-12-04 13:47:06
+- - ->main is a [D], Last modification: 2025-12-04 13:47:06
+- - - ->java is a [D], Last modification: 2025-12-04 13:47:06
+- - - - ->level1_exercise2 is a [D], Last modification: 2025-12-05 21:08:18
+- - - - - ->MainEx2.java is a [F], Last modification: 2025-12-05 21:08:18
+- - - - - ->ShowDirectoryTree.java is a [F], Last modification: 2025-12-05 17:01:00
+- - ->test is a [D], Last modification: 2025-12-04 13:47:06
+- - - ->java is a [D], Last modification: 2025-12-04 13:47:06
+- - - - ->level1_exercise2 is a [D]
