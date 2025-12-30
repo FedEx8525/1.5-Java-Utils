@@ -6,7 +6,7 @@ import java.io.IOException;
 public class MainEx5 {
 
     public static void main( String[] args ) {
-        SerializingAndDeserializingJavaObject javaObjet1 = new SerializingAndDeserializingJavaObject("Carlos");
+        SerializingObject javaObjet1 = new SerializingObject("Carlos");
         try {
             javaObjet1.serializeObject();
             javaObjet1.deserializeObject();

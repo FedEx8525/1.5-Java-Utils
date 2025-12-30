@@ -2,11 +2,11 @@ package level1_exercise5;
 
 import java.io.*;
 
-public class SerializingAndDeserializingJavaObject implements Serializable {
+public class SerializingObject implements Serializable {
 
     private String name;
 
-    public SerializingAndDeserializingJavaObject(String name) {
+    public SerializingObject(String name) {
         this.name = name;
     }
 
@@ -26,9 +26,9 @@ public class SerializingAndDeserializingJavaObject implements Serializable {
 
     public void deserializeObject() throws IOException {
         try (FileInputStream fileInput = new FileInputStream("javaObjet.ser")) {
-            SerializingAndDeserializingJavaObject deserializedObjet;
+            SerializingObject deserializedObjet;
             ObjectInputStream deserializedObjetInput = new ObjectInputStream(fileInput);
-            deserializedObjet = (SerializingAndDeserializingJavaObject) deserializedObjetInput.readObject();
+            deserializedObjet = (SerializingObject) deserializedObjetInput.readObject();
             System.out.println("Objet deserialized: " + deserializedObjet.getName());
         } catch (IOException | ClassNotFoundException e) {
             System.out.println("Error : " + e.getMessage());
